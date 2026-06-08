@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'QuizStart.dart';
+import 'quiz_start.dart';
 
 const startAlignment = Alignment.topLeft;
 const endAlignment = Alignment.bottomRight;
